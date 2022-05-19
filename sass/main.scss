@@ -1,7 +1,10 @@
 @import './utils/variables';
 @import './utils/mixins';
+@import './utils/hidden';
 
 @import './components/header';
+@import './components/container';
+@import './components/section';
 @import './components/hero';
 @import './components/advantage';
 @import './components/btn';

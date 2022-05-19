@@ -9,11 +9,11 @@
   margin-bottom: 50px;
 }
 
-.client-item {
+.client-list {
   display: flex;
 }
 
-.client-list {
+.client-item {
   display: flex;
   justify-content: center;
   &:not(:last-child) {
